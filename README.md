@@ -1,2 +1,2 @@
-# blaknot
-My personal blog platform written on React+Tailwind with no backend (that's cool)
+> [!WARNING]
+> This project is WIP now and there is no README now, but i can say, that all you need to do is go to the [zabojeb.github.io/blaknot]() and try this platform by yourself!
