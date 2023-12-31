@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blaknot/static/css/main.d89ae251.css",
-    "main.js": "/blaknot/static/js/main.58995e5c.js",
+    "main.js": "/blaknot/static/js/main.515271b3.js",
     "index.html": "/blaknot/index.html",
     "main.d89ae251.css.map": "/blaknot/static/css/main.d89ae251.css.map",
-    "main.58995e5c.js.map": "/blaknot/static/js/main.58995e5c.js.map"
+    "main.515271b3.js.map": "/blaknot/static/js/main.515271b3.js.map"
   },
   "entrypoints": [
     "static/css/main.d89ae251.css",
-    "static/js/main.58995e5c.js"
+    "static/js/main.515271b3.js"
   ]
 }
